@@ -18,7 +18,8 @@ This version of Wordle features:
 
 ## 🖼️ Game Preview
 
-<img width="700" alt="Wordle Clone Preview" src="https://github.com/user-attachments/assets/fake-sample-wordle-screenshot.png" />
+<img width="1250" height="870" alt="image" src="https://github.com/user-attachments/assets/ece4178f-e753-416d-af3c-d591f9c93f77" />
+
 
 ---
 
