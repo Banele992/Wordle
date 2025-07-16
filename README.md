@@ -18,7 +18,8 @@ This version of Wordle features:
 
 ## 🖼️ Game Preview
 
-<img width="1250" height="870" alt="image" src="https://github.com/user-attachments/assets/ece4178f-e753-416d-af3c-d591f9c93f77" />
+<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/5b5fafbe-dfa0-47d4-adb5-9723bbc10388" />
+
 
 
 ---
